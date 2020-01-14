@@ -11,18 +11,17 @@ We have arranged for a few rooms for IST-ULisbon visitors at the **Carmen de la 
 
 ## Participants (8+3)
 
-- Ana Afonso (CENTRA)
+- Ana S. Afonso (CENTRA)
 - Roberto Cid Fernandes (Florianópolis)
 - Inma Domínguez (UGR)
 - Lluís Galbany (UGR)
+- Pedro Garcia (CENTRA)
 - Santiago González-Gaitán (CENTRA)
 - Antonia Morales Garoffolo (UCádiz)
-- Ana Mourão (CENTRA)
+- Ana M. Mourão (CENTRA)
 - Enrique Perez (IAA) 
+- João Silvestre (CENTRA)
 - Pepe Vílchez (IAA) 
-
-- João (CENTRA)
-- Pedro (CENTRA)
 
 ## Program
 
