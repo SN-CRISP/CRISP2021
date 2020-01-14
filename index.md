@@ -1,4 +1,4 @@
-Welcome to the webpage of the first CRISPINHO workshop, funded by the FQM292 group and the CRISP grant [no. XXXXXX]. 
+Welcome to the webpage of the first CRISPINHO workshop, funded by the FQM292 group and the CRISP grant [PTDC/FIS-AST-31546]. 
 
 ## Venue
 
