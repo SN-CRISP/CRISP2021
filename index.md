@@ -26,9 +26,7 @@ We have arranged for a few rooms for IST-ULisbon visitors at the **Carmen de la 
 
 ## Program
 
-The day will start with a introductory talks about each of the three main topics of the workshop. We will have time for 30/20' talks, guided discussion, and walking-working excursions (WWE). During the afternoon coffee we will select some topics for discussion in small groups during the WWE, and that will be later discussed in common.
-
-TThe program can be found [here](https://docs.google.com/document/d/1qAByRSCIRUbRLxQVGlR7yJtBWuGgwNOb1rJdTLdiyeE/edit)
+The day will start at 9:30 with two talks on different CRISP topics, then there will be a coffee break, and two more talks. WE will have lunch at the Carmen de la Victoria, and walk to the University. In the afternoon we will have ample time to work in current projects.
 
 <!--
 |:------------|:------------------------|
