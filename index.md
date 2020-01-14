@@ -49,27 +49,43 @@ Typical structure of the day:
 
 #### Monday 27: Prospector + MUSE + 1.5D 
 
-[Intro CRISP (Ana/Santi)](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[TBA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[TBA - Santi](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[TBA - Alessandro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1: [Intro CRISP (Ana/Santi)](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 2: [TBA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 3: [TBA - Santi](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 4: [TBA - Alessandro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 #### Tuesday 28:  Polarization SN / Galaxies
 
-[TBA SN - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[TBA Galaxies - Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1: [TBA SN - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 2: [TBA Galaxies - Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 3: 
+
+Talk 4: 
 
 #### Wednesday 29: INLA / AGN models
 
-[INLA AGN models - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[High-z galaxy simulations - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1: [INLA AGN models - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 2: [High-z galaxy simulations - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 3: [NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 4: 
 
 #### Thursday 30: High-z
 
-[AMUSING update - Lluís](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[NCR J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-[SNOOPY fits and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1: [AMUSING update - Lluís](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 2: [NCR J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 3: [SNOOPY fits and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 4: 
 
 #### Friday 31: Evironments
 
