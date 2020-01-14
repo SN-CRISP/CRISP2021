@@ -9,7 +9,7 @@ The workshop will be held at the Sala de Juntas of Carmen de la Victoria, in the
 We have arranged for a few rooms for IST-ULisbon visitors at the **Carmen de la Victoria** ([map](https://www.google.com/maps/place/Carmen+de+la+Victoria/@37.1792554,-3.6077715,15z/data=!4m5!3m4!1s0xd71fcc9ac4d670b:0x9edd116b4ac23362!8m2!3d37.1808104!4d-3.5886695)/ 
 [webpage](http://carmendelavictoria.ugr.es/)), right at the meeting location. Please, call them directly to make your reservations giving the reference number 641/19.
 
-## Participants (23 + 1)
+## Participants (8+3)
 
 - Ana Afonso (CENTRA)
 - Roberto Cid Fernandes (Florianópolis)
@@ -21,16 +21,13 @@ We have arranged for a few rooms for IST-ULisbon visitors at the **Carmen de la 
 - Enrique Perez (IAA) 
 - Pepe Vílchez (IAA) 
 
-- João
-- Pedro
+- João (CENTRA)
+- Pedro (CENTRA)
 
 ## Program
 
 The day will start at 9:30 with two talks on different CRISP topics, then there will be a coffee break, and two more talks. WE will have lunch at the Carmen de la Victoria, and walk to the University. In the afternoon we will have ample time to work in current projects.
 
-<!--
-|:------------|:------------------------|
-|             |  Monday 23rd            |
 |:------------|:------------------------|
 | 09:30-10:15 | Talk 1                  |
 | 10:15-11:00 | Talk 2                  |
@@ -41,7 +38,6 @@ The day will start at 9:30 with two talks on different CRISP topics, then there 
 | 14:30-15:00 | Walk to UGR             |
 | 15:00-19:00 | Work in groups          |
 |:------------|:------------------------|
--->
 
 ## Talks:
 
@@ -51,7 +47,5 @@ The day will start at 9:30 with two talks on different CRISP topics, then there 
 
 
 ## Contact
-
-Claudia Gutiérrez: C.P.Gutierrez-Avendano(at)soton(dot)ac(dot)uk
 
 Lluís Galbany: lgalbany(at)ugr(dot)es
