@@ -27,16 +27,21 @@ We have arranged for a few rooms for IST-ULisbon visitors at the **Carmen de la 
 
 The day will start at 9:30 with two talks on different CRISP topics, then there will be a coffee break, and two more talks. WE will have lunch at the Carmen de la Victoria, and walk to the University. In the afternoon we will have ample time to work in current projects.
 
-|:------------|:------------------------|
-| 09:30-10:15 | Talk 1                  |
-| 10:15-11:00 | Talk 2                  |
-| 11:00-11:30 | Coffee                  |
-| 11:30-12:15 | Talk 3                  |
-| 12:15-13:00 | Talk 4                  |
-| 13:00-14:30 | Lunch                   |
-| 14:30-15:00 | Walk to UGR             |
-| 15:00-19:00 | Work in groups          |
-|:------------|:------------------------|
+ 09:30-10:15 | Talk 1                  
+ 
+ 10:15-11:00 | Talk 2                  
+ 
+ 11:00-11:30 | Coffee                  
+ 
+ 11:30-12:15 | Talk 3                  
+ 
+ 12:15-13:00 | Talk 4                  
+ 
+ 13:00-14:30 | Lunch                   
+ 
+ 14:30-15:00 | Walk to UGR             
+ 
+ 15:00-19:00 | Work in groups          
 
 ## Talks:
 
