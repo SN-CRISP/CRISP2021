@@ -41,7 +41,7 @@ Typical structure of the day:
  
  15:00-19:00 | Work in groups          
 
-## Topics:
+## Talks:
 
 #### Monday 27: CRISP / AMUSING - STELLAR POPULATION FITTING
 
