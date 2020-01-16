@@ -9,6 +9,16 @@ The workshop will be held at the **Sala de Juntas** of Carmen de la Victoria, in
 We have arranged for a few rooms for CENTRA-ULisbon visitors at the **Carmen de la Victoria** ([map](https://www.google.com/maps/place/Carmen+de+la+Victoria/@37.1792554,-3.6077715,15z/data=!4m5!3m4!1s0xd71fcc9ac4d670b:0x9edd116b4ac23362!8m2!3d37.1808104!4d-3.5886695)/ 
 [webpage](http://carmendelavictoria.ugr.es/)), right at the meeting location. Please, call them directly (+34 958 24 87 00) to make your reservations giving the reference number **641/19**.
 
+## Social events
+
+We are planning two events: 
+
+(1) A workshop dinner on Monday 27, at a place TBC.
+
+(2) A night visit to the Alhambra on Friday 31 at 20:00. 
+
+Please, let us know if you are interested in attending to. 
+
 ## Participants (11)
 
 - Ana S. Afonso (CENTRA)
@@ -16,6 +26,7 @@ We have arranged for a few rooms for CENTRA-ULisbon visitors at the **Carmen de 
 - Inma Domínguez (UGR)
 - Lluís Galbany (UGR)
 - Pedro Garcia (CENTRA)
+- *Rubén García Benito (IAA)*
 - Santiago González-Gaitán (CENTRA)
 - Antonia Morales Garoffolo (UCádiz)
 - Ana M. Mourão (CENTRA)
@@ -65,7 +76,7 @@ Talk 3 (20'): [Polarization SN - Antonia](https://github.com/amusing-muse/worksh
 
 Talk 4 (20'): [Polarization Galaxies - Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 5 (20'): [NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)6
+Talk 5 (20'): [NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 Talk 6 (20'): [NCR J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
