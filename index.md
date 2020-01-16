@@ -57,21 +57,21 @@ Talk 5 (30'): [INLA + 1.5D - Santi](https://github.com/amusing-muse/workshop2/bl
 
 #### Tuesday 28:  Projects
 
-Talk 1 (20'): [Polarization SN - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1 (20'): [Stellar cluster with INLA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 2 (20'): [Polarization Galaxies - Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 2 (20'): [AGN models INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 3 (20'): [NCR J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 3 (20'): [Polarization SN - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 4 (20'): [SNOOPY fits and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 4 (20'): [Polarization Galaxies - Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 5 (20'): [Stellar cluster with INLA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 5 (20'): [NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)6
 
-Talk 6 (20'): [AGN models INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 6 (20'): [NCR J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 7 (20'): [High-z galaxy simulations - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 7 (20'): [SNOOPY fits and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 8 (20'): [NaD - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 8 (20'): [High-z galaxy simulations - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 #### Wednesday 29: Work in projects
 
