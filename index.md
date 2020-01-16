@@ -19,7 +19,7 @@ We are planning two events:
 
 Please, let us know if you are interested in attending to. 
 
-## Participants (11)
+## Participants (12)
 
 - Ana S. Afonso (CENTRA)
 - *Roberto Cid Fernandes (Florianópolis)*
