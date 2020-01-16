@@ -19,7 +19,7 @@ We are planning two events:
 
 Please, let us know if you are interested in attending to. 
 
-## Participants (12)
+## Participants (15)
 
 - Ana S. Afonso (CENTRA)
 - *Roberto Cid Fernandes (Florianópolis)*
@@ -27,16 +27,19 @@ Please, let us know if you are interested in attending to.
 - Lluís Galbany (UGR)
 - Pedro Garcia (CENTRA)
 - *Rubén García Benito (IAA)*
+- *Rosa González Delgado (IAA)*
+- Raúl González Díaz (UGR)
 - Santiago González-Gaitán (CENTRA)
 - Antonia Morales Garoffolo (UCádiz)
 - Ana M. Mourão (CENTRA)
 - *Enrique Perez (IAA)* 
+- Nataliya Ramos Chernenko (UGR)
 - João Silvestre (CENTRA)
 - *Pepe Vílchez (IAA)* 
 
 ## Program
 
-The day will start at 9:30 with two talks on different CRISP topics, then there will be a coffee break, and two more talks. We will have lunch at the Carmen de la Victoria, and walk to the University. In the afternoon we will have ample time to work in current projects.
+The day will start at 9:30 with some talks on different CRISP topics, then there will be a coffee break, and more talks. We will have lunch at the Carmen de la Victoria, and walk to the University. In the afternoon we will have ample time to work in current projects.
 
 Typical structure of the day:
 
