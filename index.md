@@ -21,8 +21,9 @@ We are planning two events:
 
 Please, let us know if you are interested in attending to. 
 
-## Participants (15)
+## Participants (16)
 
+- Carlos Abia (UGR)
 - Ana S. Afonso (CENTRA)
 - *Roberto Cid Fernandes (Florianópolis)*
 - Inma Domínguez (UGR)
