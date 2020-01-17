@@ -14,7 +14,8 @@ We have arranged for a few rooms for CENTRA-ULisbon visitors at the **Carmen de 
 
 We are planning two events: 
 
-(1) A workshop dinner on Monday 27, at a place TBC.
+(1) A workshop dinner on Tuesday 28, at **Casa Torcuato** ([webpage](https://www.casatorcuato.com/)/ 
+[map](https://www.google.com/maps/place/Restaurante+andaluz+-+Casa+Torcuato/@37.18394,-3.5937947,20.63z/data=!4m5!3m4!1s0xd71fcc67f5914ab:0xc6e2aea88a5b1a14!8m2!3d37.1839876!4d-3.5936411)).
 
 (2) A night visit to the Alhambra on Friday 31 at 20:00. 
 
