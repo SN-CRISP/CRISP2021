@@ -100,3 +100,5 @@ Talk 8 (20'): [High-z galaxy simulations - Ana A.](https://github.com/amusing-mu
 ## Contact
 
 Lluís Galbany: lgalbany(at)ugr(dot)es
+
+Santiago Gónzález Gaitán: santiago.gonzalez(at)tecnico(dot)ulisboa(dot)pt
