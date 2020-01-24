@@ -76,7 +76,7 @@ Talk 5 (30'): [INLA and 1.5D fitting - Santi](https://github.com/amusing-muse/wo
 
 Talk 1 (20'): [Finding stellar clusters with INLA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 2 (20'): [DEveloping AGN models with INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 2 (20'): [Developing AGN models with INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 Talk 3 (20'): [SN imaging polarization with CAFOS - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
