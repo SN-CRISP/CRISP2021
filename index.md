@@ -84,7 +84,7 @@ Talk 3 (20'): [Polarization of SN host galaxies with FORS2- Ana M.](https://gith
 
 Talk 4 (20'): [NCR of SN environments in J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-#### Wednesday 29: Work in projects
+#### Wednesday 29: Projects
 
 Talk 5 (20'): [SNOOPY LC parameters and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
