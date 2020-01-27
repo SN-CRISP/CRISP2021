@@ -46,13 +46,13 @@ The day will start at 9:30 with some talks on different CRISP topics, then there
 
 Typical structure of the day:
 
- 09:30-11:00 | Talks               
+ 09:30-11:15 | Talks               
  
- 11:00-11:30 | Coffee                  
+ 11:15-11:45 | Coffee                  
  
- 11:30-13:00 | Talks
+ 11:45-13:30 | Talks
  
- 13:00-14:30 | Lunch                   
+ 13:30-14:30 | Lunch                   
  
  14:30-15:00 | Walk to UGR             
  
