@@ -1,6 +1,8 @@
 Welcome to the webpage of the 1st CRISPINHO workshop, funded by the FQM292 group and the Fundação para a
 Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546]. 
 
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.png)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.png)
+
 ## Venue
 
 The workshop will be held at the **Sala de Juntas** of Carmen de la Victoria, in the morning, and at the G22 and G12 rooms of the Faculty of Science of Universidad de Granada in the afternoon.
