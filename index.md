@@ -78,21 +78,21 @@ Talk 5 (30'): [INLA and 1.5D fitting - Santi](https://github.com/amusing-muse/wo
 
 Talk 1 (20'): [Finding stellar clusters with INLA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 2 (20'): [Developing AGN models with INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 2 (20'): [SN imaging polarization with CAFOS - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 3 (20'): [SN imaging polarization with CAFOS - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 3 (20'): [Polarization of SN host galaxies with FORS2- Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
-Talk 4 (20'): [Polarization of SN host galaxies with FORS2- Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-
-Talk 5 (20'): [NaD lines in SN spectra and their environments - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-
-Talk 6 (20'): [NCR of SN environments in J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-
-Talk 7 (20'): [SNOOPY LC parameters and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
-
-Talk 8 (20'): [High-z simulations of IFS low-z galaxie - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 4 (20'): [NCR of SN environments in J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 #### Wednesday 29: Work in projects
+
+Talk 5 (20'): [SNOOPY LC parameters and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 6 (20'): [High-z simulations of IFS low-z galaxie - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 7 (20'): [NaD lines in SN spectra and their environments - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+
+Talk 8 (20'): [Developing AGN models with INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
 
 #### Thursday 30: Work in projects
 
