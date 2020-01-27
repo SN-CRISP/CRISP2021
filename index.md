@@ -1,7 +1,7 @@
 Welcome to the webpage of the 1st CRISPINHO workshop, funded by the FQM292 group and the Fundação para a
 Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546]. 
 
-[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.png)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.png)
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_big.jpg)
 
 ## Venue
 
