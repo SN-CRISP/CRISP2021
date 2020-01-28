@@ -23,7 +23,7 @@ We are planning two events:
 
 Please, let us know if you are interested in attending to. 
 
-## Participants (16)
+## Participants (15)
 
 - Carlos Abia (UGR)
 - Ana S. Afonso (CENTRA)
@@ -40,7 +40,6 @@ Please, let us know if you are interested in attending to.
 - *Enrique Perez (IAA)* 
 - Nataliya Ramos Chernenko (UGR)
 - João Silvestre (CENTRA)
-- *Pepe Vílchez (IAA)* 
 
 ## Program
 
@@ -64,35 +63,35 @@ Typical structure of the day:
 
 #### Monday 27: CRISP / AMUSING - STELLAR POPULATION FITTING
 
-Talk 1 (30'): [Introduction to CRISP - Ana/Santi](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1 (30'): Introduction to CRISP - Ana/Santi
 
-Talk 2 (30'): [AMUSING survey update - Lluís](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 2 (30'): AMUSING survey update - Lluís
 
-Talk 3 (30'): [Review on SSP and STARLIGHT - Roberto CF](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 3 (30'): Review on SSP and STARLIGHT - Roberto CF
 
-Talk 4 (30'): [Prospector phot+spec fitting to recover Rv- Alessandro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandromuse/workshop2/blob/master/talks/file.pdf)
 
-Talk 5 (30'): [INLA and 1.5D fitting - Santi](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 5 (30'): [INLA and 1.5D fitting - Santi
 
 #### Tuesday 28:  Projects
 
-Talk 1 (20'): [Finding stellar clusters with INLA - Pedro](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 1 (20'): Finding stellar clusters with INLA - Pedro
 
-Talk 2 (20'): [SN imaging polarization with CAFOS - Antonia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 2 (20'): SN imaging polarization with CAFOS - Antonia
 
-Talk 3 (20'): [Polarization of SN host galaxies with FORS2- Ana M.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 3 (20'): Polarization of SN host galaxies with FORS2- Ana M.
 
-Talk 4 (20'): [NCR of SN environments in J-PLUS - Raúl](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 4 (20'): NCR of SN environments in J-PLUS - Raúl
 
 #### Wednesday 29: Projects
 
-Talk 5 (20'): [SNOOPY LC parameters and PISCO environments - Nataliya](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 5 (20'): SNOOPY LC parameters and PISCO environments - Nataliyamuse/workshop2/blob/master/talks/file.pdf)
 
-Talk 6 (20'): [High-z simulations of IFS low-z galaxie - Ana A.](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 6 (20'): High-z simulations of IFS low-z galaxie - Ana A.
 
-Talk 7 (20'): [NaD lines in SN spectra and their environments - Claudia](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 7 (20'): NaD lines in SN spectra and their environments - Claudiamuse/workshop2/blob/master/talks/file.pdf)
 
-Talk 8 (20'): [Developing AGN models with INLA - João](https://github.com/amusing-muse/workshop2/blob/master/talks/file.pdf)
+Talk 8 (20'): Developing AGN models with INLA - João
 
 #### Thursday 30: Work in projects
 
