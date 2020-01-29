@@ -66,9 +66,9 @@ Typical structure of the day:
 
 Talk 1 (30'): Introduction to CRISP - Ana/Santi
 
-Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Galbany.pdf) - Lluís
+Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Lluis.pdf) - Lluís
 
-Talk 3 (30'): [Review on SSP and STARLIGHT](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Cid.pdf) - Roberto CF
+Talk 3 (30'): [Review on SSP and STARLIGHT](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Roberto.pdf) - Roberto CF
 
 Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandro
 
@@ -76,23 +76,24 @@ Talk 5 (30'): INLA and 1.5D fitting - Santi
 
 #### Tuesday 28:  Projects
 
-Talk 1 (20'): Finding stellar clusters with INLA - Pedro
+Talk 1 (20'): [Finding stellar clusters with INLA](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Pedro.pdf) - Pedro
 
-Talk 2 (20'): SN imaging polarization with CAFOS - Antonia
+Talk 2 (20'): [SN imaging polarization with CAFOS](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Antonia.pdf) - Antonia
 
-Talk 3 (20'): Polarization of SN host galaxies with FORS2- Ana M.
+Talk 3 (20'): [Polarization of SN host galaxies with FORS2](https://github.com/amusing-muse/crispinho2020/blob/master/talks/AMourao.pdf)- Ana M.
 
 Talk 4 (20'): NCR of SN environments in J-PLUS - Raúl
 
 #### Wednesday 29: Projects
 
-Talk 5 (20'): SNOOPY LC parameters and PISCO environments - Nataliya
+Talk 5 (20'): [Developing AGN models with INLA](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Joao.pdf) - João
 
 Talk 6 (20'): High-z simulations of IFS low-z galaxie - Ana A.
 
 Talk 7 (20'): NaD lines in SN spectra and their environments - Claudia
 
-Talk 8 (20'): Developing AGN models with INLA - João
+Talk 8 (20'): SNOOPY LC parameters and PISCO environments - Nataliya
+
 
 #### Thursday 30: Work in projects
 
