@@ -66,7 +66,7 @@ Typical structure of the day:
 
 Talk 1 (30'): Introduction to CRISP - Ana/Santi
 
-Talk 2 (30'): [AMUSING survey update - Lluís](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Galbany.pdf)
+Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Galbany.pdf) - Lluís
 
 Talk 3 (30'): Review on SSP and STARLIGHT - Roberto CF
 
