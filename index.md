@@ -68,7 +68,7 @@ Talk 1 (30'): Introduction to CRISP - Ana/Santi
 
 Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Galbany.pdf) - Lluís
 
-Talk 3 (30'): Review on SSP and STARLIGHT - Roberto CF
+Talk 3 (30'): [Review on SSP and STARLIGHT](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Cid.pdf) - Roberto CF
 
 Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandro
 
