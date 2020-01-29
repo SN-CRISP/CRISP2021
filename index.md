@@ -82,13 +82,13 @@ Talk 2 (20'): [SN imaging polarization with CAFOS](https://github.com/amusing-mu
 
 Talk 3 (20'): [Polarization of SN host galaxies with FORS2](https://github.com/amusing-muse/crispinho2020/blob/master/talks/AMourao.pdf)- Ana M.
 
-Talk 4 (20'): NCR of SN environments in J-PLUS - Raúl
+Talk 4 (20'): [NCR of SN environments in J-PLUS](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Raul.pdf) - Raúl
 
 #### Wednesday 29: Projects
 
 Talk 5 (20'): [Developing AGN models with INLA](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Joao.pdf) - João
 
-Talk 6 (20'): High-z simulations of IFS low-z galaxie - Ana A.
+Talk 6 (20'): [High-z simulations of IFS low-z galaxie](https://github.com/amusing-muse/crispinho2020/blob/master/talks/AAfonso.pdf) - Ana A.
 
 Talk 7 (20'): NaD lines in SN spectra and their environments - Claudia
 
