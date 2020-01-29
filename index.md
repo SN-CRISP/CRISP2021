@@ -66,13 +66,13 @@ Typical structure of the day:
 
 Talk 1 (30'): Introduction to CRISP - Ana/Santi
 
-Talk 2 (30'): AMUSING survey update - Lluís
+Talk 2 (30'): [AMUSING survey update - Lluís](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Galbany.pdf)
 
 Talk 3 (30'): Review on SSP and STARLIGHT - Roberto CF
 
-Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandromuse/workshop2/blob/master/talks/file.pdf)
+Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandro
 
-Talk 5 (30'): [INLA and 1.5D fitting - Santi
+Talk 5 (30'): INLA and 1.5D fitting - Santi
 
 #### Tuesday 28:  Projects
 
@@ -86,11 +86,11 @@ Talk 4 (20'): NCR of SN environments in J-PLUS - Raúl
 
 #### Wednesday 29: Projects
 
-Talk 5 (20'): SNOOPY LC parameters and PISCO environments - Nataliyamuse/workshop2/blob/master/talks/file.pdf)
+Talk 5 (20'): SNOOPY LC parameters and PISCO environments - Nataliya
 
 Talk 6 (20'): High-z simulations of IFS low-z galaxie - Ana A.
 
-Talk 7 (20'): NaD lines in SN spectra and their environments - Claudiamuse/workshop2/blob/master/talks/file.pdf)
+Talk 7 (20'): NaD lines in SN spectra and their environments - Claudia
 
 Talk 8 (20'): Developing AGN models with INLA - João
 
