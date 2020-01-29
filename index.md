@@ -70,7 +70,7 @@ Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2
 
 Talk 3 (30'): [Review on SSP and STARLIGHT](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Roberto.pdf) - Roberto CF
 
-Talk 4 (30'): Prospector phot+spec fitting to recover Rv- Alessandro
+Talk 4 (30'): [Prospector phot+spec fitting to recover Rv](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Alessandro.pdf)- Alessandro
 
 Talk 5 (30'): INLA and 1.5D fitting - Santi
 
