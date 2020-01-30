@@ -108,3 +108,4 @@ Santiago Gónzález Gaitán: santiago.gonzalez(at)tecnico(dot)ulisboa(dot)pt
 [![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2.jpg)
 [![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_3.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_3.jpg)
 [![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_4.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_4.jpg)
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_5.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_5.jpg)
