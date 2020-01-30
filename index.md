@@ -88,9 +88,9 @@ Talk 4 (20'): [NCR of SN environments in J-PLUS](https://github.com/amusing-muse
 
 Talk 5 (20'): [Developing AGN models with INLA](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Joao.pdf) - João
 
-Talk 6 (20'): [High-z simulations of IFS low-z galaxie](https://github.com/amusing-muse/crispinho2020/blob/master/talks/AAfonso.pdf) - Ana A.
+Talk 6 (20'): [High-z simulations of IFS low-z galaxies](https://github.com/amusing-muse/crispinho2020/blob/master/talks/AAfonso.pdf) - Ana A.
 
-Talk 7 (20'): NaD lines in SN spectra and their environments - Claudia
+Talk 7 (20'): [NaD lines in SN spectra and their environments](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Claudia.pdf) - Claudia
 
 Talk 8 (20'): SNOOPY LC parameters and PISCO environments - Nataliya
 
