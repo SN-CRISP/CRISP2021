@@ -2,7 +2,6 @@ Welcome to the webpage of the 1st CRISPINHO workshop, funded by the FQM292 group
 Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546]. 
 
 [![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_big.jpg)
-[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2_big.jpg)
 
 ## Venue
 
@@ -105,3 +104,7 @@ Talk 8 (20'): [SNOOPY LC parameters and PISCO environments](https://github.com/a
 Lluís Galbany: lgalbany(at)ugr(dot)es
 
 Santiago Gónzález Gaitán: santiago.gonzalez(at)tecnico(dot)ulisboa(dot)pt
+
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_2.jpg)
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_3.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_3.jpg)
+[![](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_4.jpg)](https://github.com/amusing-muse/crispinho2020/raw/master/group_photo_4.jpg)
