@@ -92,7 +92,7 @@ Talk 6 (20'): [High-z simulations of IFS low-z galaxies](https://github.com/amus
 
 Talk 7 (20'): [NaD lines in SN spectra and their environments](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Claudia.pdf) - Claudia
 
-Talk 8 (20'): SNOOPY LC parameters and PISCO environments - Nataliya
+Talk 8 (20'): [SNOOPY LC parameters and PISCO environments](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Nataliya.pdf) - Nataliya
 
 
 #### Thursday 30: Work in projects
