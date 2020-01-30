@@ -64,7 +64,7 @@ Typical structure of the day:
 
 #### Monday 27: CRISP / AMUSING - STELLAR POPULATION FITTING
 
-Talk 1 (30'): Introduction to CRISP - Ana/Santi
+Talk 1 (30'): [Introduction to CRISP](https://github.com/amusing-muse/crispinho2020/blob/master/talks/CRISP.pdf) - Ana/Santi
 
 Talk 2 (30'): [AMUSING survey update](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Lluis.pdf) - Lluís
 
@@ -72,7 +72,7 @@ Talk 3 (30'): [Review on SSP and STARLIGHT](https://github.com/amusing-muse/cris
 
 Talk 4 (30'): [Prospector phot+spec fitting to recover Rv](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Alessandro.pdf)- Alessandro
 
-Talk 5 (30'): INLA and 1.5D fitting - Santi
+Talk 5 (30'): [INLA and 1.5D fitting](https://github.com/amusing-muse/crispinho2020/blob/master/talks/Santiago.pdf) - Santi
 
 #### Tuesday 28:  Projects
 
