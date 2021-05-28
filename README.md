@@ -1,3 +1,3 @@
-# crispinho2020
+# CRISP 2021
 
-Repository of the 1st CRISPINHO workshop held in Granada on January 27-31 2020
+Repository of the CRISP meeting held in Peniche on July 14-18 2021
