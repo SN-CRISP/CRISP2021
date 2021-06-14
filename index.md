@@ -25,7 +25,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Claudia Gutiérrez (UTurku)
 - João Aguas
 
-## Program (tentative)
+## Tentative Program
 
 The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Lunch will be provided. Afternoon discussions and work sessions will be flexible, probably between 14:00 and 16:00.
 
