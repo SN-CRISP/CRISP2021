@@ -66,4 +66,5 @@ Moon scattering polarization (30'): Beatriz Pereira
 ## Contact
 
 amourao at tecnico dot ulisboa dot pt
+
 santiago dot gonzalez at tecnico dot ulisboa dot pt
