@@ -20,7 +20,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Pedro Garcia (FCUL)
 - Santiago González-Gaitán (CENTRA)
 
-## Presential Participants 
+## Online Participants 
 
 - Claudia Gutiérrez (UTurku)
 - João Aguas
