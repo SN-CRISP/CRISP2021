@@ -8,7 +8,7 @@ Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546]
 The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/peniche/) in Peniche, Portugal from the 14th to 18th of July, 2021.
 
 ## Participants 
-### Presential Participants
+#### Presential Participants
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA)
 - Ana M. Mourão (CENTRA)
@@ -20,7 +20,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Pedro Garcia (FCUL)
 - Santiago González-Gaitán (CENTRA)
 
-### Online Participants
+#### Online Participants
 
 - Claudia Gutiérrez (UTurku)
 - João Aguas
