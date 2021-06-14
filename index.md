@@ -9,6 +9,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 ## Presential Participants 
 
+- Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA)
 - Ana M. Mourão (CENTRA)
 - Antonia Morales Garoffolo (UCádiz)
@@ -19,6 +20,10 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Pedro Garcia (FCUL)
 - Santiago González-Gaitán (CENTRA)
 
+## Presential Participants 
+
+- Claudia Gutiérrez (UTurku)
+- João Aguas
 
 ## Tentative Program
 
@@ -26,26 +31,28 @@ The day will start at 9:00 with some talks until 11:00 on different CRISP topics
 
 #### Wednesday 14: Stellar population fitting
 
-Welcoming words (15'): Ana Mourão
+Welcoming words (10'): Ana Mourão
 
-1.5 fitting (30'): Pedro Garcia
+1.5 fitting (20'): Pedro Garcia
 
-Dust attenuation in galaxies of the Dark Energy Survey (30'): João Duarte
+Local and global photometry (20'): João Aguas
 
-Local and global photometry (30'): João Aguas
+Dust attenuation in galaxies of the Dark Energy Survey (20'): João Duarte
+
+Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
 
 #### Thursday 15: SN extinction
 
-SN narrow lines and extinction (30'): Claudia Gutiérrez
+SN narrow lines and extinction (20'): Claudia Gutiérrez
 
-SN Rv evolution (30'): TBA
+SN Rv evolution (20'): TBA
 
 
 #### Friday 16: Cosmological implications
 
-Artificial redshifting and mass-step effect (30'): Ana Afonso
+Effect of varying beta distrbutions in SN Ia cosmology (20'): Santiago González
 
-Effect of varying beta distrbutions in SN Ia cosmology (30'): Santiago González
+Artificial redshifting and mass-step effect (20'): Ana Afonso
 
 
 #### Saturday 17: Polarization studies
