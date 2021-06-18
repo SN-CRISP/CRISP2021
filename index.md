@@ -9,6 +9,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 ## Participants 
 #### Presential Participants
+- Alberto Krone-Martins (UIrvine)
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA)
 - Ana M. Mourão (CENTRA)
@@ -41,15 +42,15 @@ Moon scattering polarization (20'): Beatriz Pereira
 
 #### Thursday 15: Stellar population fitting
 
-1.5 fitting (20'): Pedro Garcia
-
 Local and global photometry (20'): João Aguas
+
+1.5 fitting (20'): Pedro Garcia
 
 Dust attenuation in galaxies of the Dark Energy Survey (20'): João Duarte
 
 Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
 
-#### Friday 16: SN extinction
+#### Friday 16: SN extinction & EmulateRT
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
@@ -57,6 +58,7 @@ SNIa Rv evolution (10'): TBA
 
 SNII transition characterization (10'): TBA
 
+SKIRT-INLA simulations (20'): Majda Smole? & João Silvestre?
 
 #### Saturday 17: Cosmological implications
 
