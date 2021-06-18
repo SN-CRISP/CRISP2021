@@ -29,9 +29,17 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Lunch will be provided. Afternoon discussions and work sessions will be flexible, probably between 14:00 and 16:00.
 
-#### Wednesday 14: Stellar population fitting
+#### Wednesday 14: Polarization studies
 
 Welcoming words (10'): Ana Mourão
+
+SN polarization (20'): Antonia Morales Garoffolo
+
+Host galaxy polarization (20'): João Silvestre
+
+Moon scattering polarization (20'): Beatriz Pereira
+
+#### Thursday 15: Stellar population fitting
 
 1.5 fitting (20'): Pedro Garcia
 
@@ -41,27 +49,22 @@ Dust attenuation in galaxies of the Dark Energy Survey (20'): João Duarte
 
 Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
 
-#### Thursday 15: SN extinction
+#### Friday 16: SN extinction
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
-SN Rv evolution (20'): TBA
+SNIa Rv evolution (10'): TBA
+
+SNII transition characterization (10'): TBA
 
 
-#### Friday 16: Cosmological implications
+#### Saturday 17: Cosmological implications
 
 Effect of varying beta distrbutions in SN Ia cosmology (20'): Santiago González
 
 Artificial redshifting and mass-step effect (20'): Ana Afonso
 
 
-#### Saturday 17: Polarization studies
-
-SN polarization (30'): Antonia Morales Garoffolo
-
-Host galaxy polarization (30'): João Silvestre
-
-Moon scattering polarization (30'): Beatriz Pereira
 
 ## Contact
 
