@@ -9,11 +9,11 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 ## Participants 
 #### Presential Participants
-- Alberto Krone-Martins (UIrvine)
+- Alberto Krone-Martins (U.Irvine)
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA)
 - Ana M. Mourão (CENTRA)
-- Antonia Morales Garoffolo (UCádiz)
+- Antonia Morales Garoffolo (U.Cádiz)
 - Beatriz Pereira (CENTRA)
 - João Duarte (CENTRA)
 - João Silvestre (CENTRA)
@@ -23,8 +23,10 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 #### Online Participants
 
-- Claudia Gutiérrez (UTurku)
+- Claudia Gutiérrez (U.Turku)
 - João Aguas
+- Alejandro Yépes (U.Nacional Col)
+- Steve Jurado (U.Antioquia Col)
 
 ## Tentative Program
 
@@ -54,9 +56,9 @@ Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
-SNIa Rv evolution (10'): TBA
+SNIa Rv evolution (10'): Alejandro Yepes
 
-SNII transition characterization (10'): TBA
+SNII transition characterization (10'): Steve Jurado
 
 SKIRT-INLA simulations (20'): Majda Smole? & João Silvestre?
 
