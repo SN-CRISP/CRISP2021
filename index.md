@@ -24,9 +24,10 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 #### Online Participants
 
-- Claudia Gutiérrez (U.Turku)
-- João Aguas
 - Alejandro Yépes (U.Nacional Col)
+- Claudia Gutiérrez (U.Turku)
+- Francisco Förster (CMM-UChile)
+- João Aguas
 - Steve Jurado (U.Antioquia Col)
 
 ## Tentative Program
