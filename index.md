@@ -9,17 +9,18 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 ## Participants 
 #### Presential Participants
-- Alberto Krone-Martins (CENTRA/FCUL-U.Irvine)
+- Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
-- Ana S. Afonso (CENTRA/IST)
-- Ana M. Mourão (CENTRA/IST)
+- Ana S. Afonso (CENTRA-IST)
+- Ana M. Mourão (CENTRA-IST)
 - Antonia Morales Garoffolo (U.Cádiz)
-- Beatriz Pereira (CENTRA/IST)
-- João Duarte (CENTRA/IST)
-- João Silvestre (CENTRA/IST)
+- Beatriz Pereira (CENTRA-IST)
+- João Duarte (CENTRA-IST)
+- Emille Ishida (LPC-Clermont)
+- João Silvestre (CENTRA-IST)
 - Lluís Galbany (UGR)
-- Pedro Garcia (CENTRA/FCUL)
-- Santiago González-Gaitán (CENTRA/IST)
+- Pedro Garcia (CENTRA-FCUL)
+- Santiago González-Gaitán (CENTRA-IST)
 
 #### Online Participants
 
@@ -30,7 +31,7 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 
 ## Tentative Program
 
-The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Lunch will be provided. Afternoon discussions and work sessions will be flexible, probably between 14:00 and 16:00.
+The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon discussions and work sessions will be flexible, probably between 14:00 and 16:00.
 
 #### Wednesday 14: Polarization studies
 
