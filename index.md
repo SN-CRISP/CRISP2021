@@ -65,7 +65,7 @@ SKIRT-INLA simulations (20'): Majda Smole? & João Silvestre?
 
 #### Saturday 17: Cosmological implications
 
-Effect of varying beta distrbutions in SN Ia cosmology (20'): Santiago González
+Effect of varying beta distributions in SN Ia cosmology (20'): Santiago González
 
 Artificial redshifting and mass-step effect (20'): Ana Afonso
 
