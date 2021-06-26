@@ -44,9 +44,9 @@ Host galaxy polarization (20'): João Silvestre
 
 Moon scattering polarization (20'): Beatriz Pereira
 
-#### Thursday 15: Stellar population fitting
+#### Thursday 15 morning: Stellar population fitting
 
-Local and global photometry (20'): João Aguas
+Local and global photometry (10'): João Aguas
 
 1.5 fitting (20'): Pedro Garcia
 
@@ -54,7 +54,13 @@ Dust attenuation in galaxies of the Dark Energy Survey (20'): João Duarte
 
 Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
 
-#### Friday 16: SN extinction & EmulateRT
+#### Thursday 15 afternoon: Transient Brokers
+
+ALeRCE broker (20'): Francisco Förster
+
+Fink broker (20'): Emille Ishida
+
+#### Friday 16 afternoon: SN extinction & EmulateRT
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
