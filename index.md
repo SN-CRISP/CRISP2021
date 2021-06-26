@@ -28,11 +28,12 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Claudia Gutiérrez (U.Turku)
 - Francisco Förster (CMM-UChile)
 - João Aguas
+- Majda Smole (Obs. Belgrade)
 - Steve Jurado (U.Antioquia Col)
 
 ## Tentative Program
 
-The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon discussions and work sessions will be flexible, probably between 14:00 and 16:00.
+The exact program The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon talks essions will be flexible, probably between 14:00 and 16:00.
 
 #### Wednesday 14: Polarization studies
 
@@ -60,7 +61,11 @@ ALeRCE broker (20'): Francisco Förster
 
 Fink broker (20'): Emille Ishida
 
-#### Friday 16 afternoon: SN extinction & EmulateRT
+#### Friday 16 morning: EmulateRT
+
+SKIRT-INLA simulations (20'): Majda Smole & João Silvestre
+
+#### Friday 16 afternoon: Supernovae - extinction & characteristics
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
@@ -68,13 +73,11 @@ SNIa Rv evolution (10'): Alejandro Yepes
 
 SNII transition characterization (10'): Steve Jurado
 
-SKIRT-INLA simulations (20'): Majda Smole? & João Silvestre?
-
-#### Saturday 17: Cosmological implications
+#### Saturday 17 morning: Cosmological implications
 
 Effect of varying beta distributions in SN Ia cosmology (20'): Santiago González
 
-Artificial redshifting and mass-step effect (20'): Ana Afonso
+Artificial redshifting and SN mass-step effect (20'): Ana Afonso
 
 
 
