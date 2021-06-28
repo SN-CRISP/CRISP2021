@@ -15,8 +15,8 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Ana M. Mourão (CENTRA-IST)
 - Antonia Morales Garoffolo (U.Cádiz)
 - Beatriz Pereira (CENTRA-IST)
-- João Duarte (CENTRA-IST)
 - Emille Ishida (LPC-Clermont)
+- João Duarte (CENTRA-IST)
 - João Silvestre (CENTRA-IST)
 - Lluís Galbany (UGR)
 - Pedro Garcia (CENTRA-FCUL)
@@ -29,13 +29,14 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Francisco Förster (CMM-UChile)
 - João Aguas
 - Majda Smole (Obs. Belgrade)
+- Raya Dastidar (MAS-Chile)
 - Steve Jurado (U.Antioquia Col)
 
 ## Tentative Program
 
-The exact program The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon talks essions will be flexible, probably between 14:00 and 16:00.
+This program is flexible. The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon talk sessions will be flexible, probably between 14:00 and 16:00.
 
-#### Wednesday 14: Polarization studies
+#### Wednesday 14 afternoon: Polarization studies
 
 Welcoming words (10'): Ana Mourão
 
@@ -65,7 +66,7 @@ Fink broker (20'): Emille Ishida
 
 SKIRT-INLA simulations (20'): Majda Smole & João Silvestre
 
-#### Friday 16 afternoon: Supernovae - extinction & characteristics
+#### Friday 16 afternoon: Supernovae - characteristics & extinction
 
 SN narrow lines and extinction (20'): Claudia Gutiérrez
 
