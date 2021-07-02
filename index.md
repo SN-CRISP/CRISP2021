@@ -20,13 +20,13 @@ Due to the pandemic situation in Portugal, the meeting will now be held exclusiv
 - Lluís Galbany (UGR)
 - Pedro Garcia (CENTRA-FCUL)
 - Santiago González-Gaitán (CENTRA-IST)
-- Alejandro Yépes (U.Nacional Col)
+- Alejandro Yépes (U.Nacional Colombia)
 - Claudia Gutiérrez (U.Turku)
 - Francisco Förster (CMM-UChile)
 - João Aguas
 - Majda Smole (Obs. Belgrade)
 - Raya Dastidar (MAS-Chile)
-- Steve Jurado (U.Antioquia Col)
+- Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
 
 ## Program
