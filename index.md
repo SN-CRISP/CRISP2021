@@ -74,7 +74,7 @@ Due to the pandemic situation in Portugal, the meeting will now be held exclusiv
 
 15:00 ALeRCE broker (15'): Francisco Förster
 
-15:20 Fink broker (20'): Emille Ishida
+15:20 Fink broker (15'): Emille Ishida
 
 --------- 15:40  COFFEE BREAK ---------------
 
