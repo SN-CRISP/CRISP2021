@@ -30,6 +30,7 @@ Due to the pandemic situation in Portugal, the meeting will now be held exclusiv
 - Bastian Ayala (UNAB-Chile)
 
 ## Program
+Hours are Portuguese (GMT+1). Talk durations are 10' or 15' and always +5' for questions. 
 
 ### Wednesday 14 
 
