@@ -79,7 +79,7 @@ Hours are Portuguese (GMT+1). Talk durations are 10' or 15' and always +5' for q
 
 --------- 15:40  COFFEE BREAK ---------------
 
-#### 2nd session: Supernovae - characteristics & extinction
+#### 3rd session: Supernovae - characteristics & extinction
 
 16:10 SN narrow lines and extinction (15'): Claudia Gutiérrez
 
