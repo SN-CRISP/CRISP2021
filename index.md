@@ -5,10 +5,9 @@ Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546/2017]
 
 ## Venue
 
-The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/peniche/) in Peniche, Portugal from the 14th to 18th of July, 2021.
+Due to the pandemic situation in Portugal, the meeting will now be held exclusively online on the 14th and 15th of July, 2021.
 
 ## Participants 
-#### Presential Participants
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA-IST)
@@ -21,9 +20,6 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Lluís Galbany (UGR)
 - Pedro Garcia (CENTRA-FCUL)
 - Santiago González-Gaitán (CENTRA-IST)
-
-#### Online Participants
-
 - Alejandro Yépes (U.Nacional Col)
 - Claudia Gutiérrez (U.Turku)
 - Francisco Förster (CMM-UChile)
@@ -31,54 +27,66 @@ The meeting will be held at the [Hotel STAR-Inn](https://www.hotelstarinn.com/pe
 - Majda Smole (Obs. Belgrade)
 - Raya Dastidar (MAS-Chile)
 - Steve Jurado (U.Antioquia Col)
+- Bastian Ayala (UNAB-Chile)
 
-## Tentative Program
+## Program
 
-This program is flexible. The day will start at 9:00 with some talks until 11:00 on different CRISP topics. Afternoon talk sessions will be flexible, probably between 14:00 and 16:00.
+### Wednesday 14 
 
-#### Wednesday 14 afternoon: Polarization studies
+#### 1st session: Polarization studies
 
-Welcoming words (10'): Ana Mourão
+14:00 Welcoming words (10'): Ana Mourão
 
-SN polarization (20'): Antonia Morales Garoffolo
+14:10 SN CAFOS polarization (15'): Antonia Morales Garoffolo
 
-Host galaxy polarization (20'): João Silvestre
+14:30 SN EFOSC2 polarization (15'): Bastian Ayala
 
-Moon scattering polarization (20'): Beatriz Pereira
+14:50 Host galaxy FORS2 polarization (15'): João Silvestre
 
-#### Thursday 15 morning: Stellar population fitting
+15:10 Moon scattering polarization (15'): Beatriz Pereira
 
-Local and global photometry (10'): João Aguas
+--------- 15:30  COFFEE BREAK ---------------
 
-1.5 fitting (20'): Pedro Garcia
+#### 2nd session: Stellar population fitting
 
-Dust attenuation in galaxies of the Dark Energy Survey (20'): João Duarte
+16:00 Local and global photometry (10'): João Aguas
 
-Dust attenuation in AMUSING galaxies (20'): Alessandro Razza
+16:15 1.5D fitting (15'): Pedro Garcia
 
-#### Thursday 15 afternoon: Transient Brokers
+16:35 Dust attenuation in galaxies of the Dark Energy Survey (15'): João Duarte
 
-ALeRCE broker (20'): Francisco Förster
+16:55 Dust attenuation in AMUSING galaxies (15'): Alessandro Razza
 
-Fink broker (20'): Emille Ishida
+--------- 17:15 DISCUSSION -----------------
 
-#### Friday 16 morning: EmulateRT
 
-SKIRT-INLA simulations (20'): Majda Smole & João Silvestre
+### Thursday 15 
 
-#### Friday 16 afternoon: Supernovae - characteristics & extinction
+#### 1st session: Simulations and cosmology
 
-SN narrow lines and extinction (20'): Claudia Gutiérrez
+14:00 SKIRT-INLA simulations (15'): Majda Smole & João Silvestre
 
-SNIa Rv evolution (10'): Alejandro Yepes
+14:20 Effect of varying beta distributions in SN Ia cosmology (15'): Santiago González
 
-SNII transition characterization (10'): Steve Jurado
+14:40 Artificial redshifting and SN mass-step effect (15'): Ana Afonso
 
-#### Saturday 17 morning: Cosmological implications
+#### 2nd session: Transient Brokers
 
-Effect of varying beta distributions in SN Ia cosmology (20'): Santiago González
+15:00 ALeRCE broker (15'): Francisco Förster
 
-Artificial redshifting and SN mass-step effect (20'): Ana Afonso
+15:20 Fink broker (20'): Emille Ishida
+
+--------- 15:40  COFFEE BREAK ---------------
+
+#### 2nd session: Supernovae - characteristics & extinction
+
+16:10 SN narrow lines and extinction (15'): Claudia Gutiérrez
+
+16:30 SNIa Rv evolution (10'): Alejandro Yepes
+
+16:45 SNII transition characterization (10'): Steve Jurado
+
+--------- 17:00 DISCUSSION -----------------
 
 
 
