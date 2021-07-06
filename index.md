@@ -40,7 +40,7 @@ Hours are Portuguese (GMT+1). Talk durations are 10' or 15' and always +5' for q
 
 14:10 - SN CAFOS polarization (15'): Antonia Morales Garoffolo
 
-14:30 - SN EFOSC2 polarization (15'): Bastian Ayala
+14:30 - SN EFOSC2 polarization simulations (15'): Bastian Ayala
 
 14:50 - Host galaxy FORS2 polarization (15'): João Silvestre
 
