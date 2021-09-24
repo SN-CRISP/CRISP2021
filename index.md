@@ -5,9 +5,9 @@ Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546/2017]
 
 ## Venue
 
-Due to the pandemic situation in Portugal, the meeting will now be held exclusively online on the 14th and 15th of July, 2021.
+The meeting will be held at the [Star Inn Hotel]{https://www.hotelstarinn.com/peniche/} in Peniche, Portugal, from December 3rd to 8th, 2021. We will also have some online sessions, so that other collaborators can join.
 
-## Participants 
+## Expected Participants 
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA-IST)
@@ -29,10 +29,10 @@ Due to the pandemic situation in Portugal, the meeting will now be held exclusiv
 - Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
 
-## Program
+## Tentative Program
 Hours are Portuguese (GMT+1). Talk durations are 10' or 15' and always +5' for questions. 
 
-### Wednesday 14 
+### Saturday 4 
 
 #### 1st session: Polarization studies
 
@@ -61,7 +61,7 @@ Hours are Portuguese (GMT+1). Talk durations are 10' or 15' and always +5' for q
 --------- 17:15 DISCUSSION -----------------
 
 
-### Thursday 15 
+### Monday 6 
 
 #### 1st session: Simulations and cosmology
 
