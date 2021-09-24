@@ -5,7 +5,7 @@ Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546/2017]
 
 ## Venue
 
-The meeting will be held at the [Star Inn Hotel]{https://www.hotelstarinn.com/peniche/} in Peniche, Portugal, from December 3rd to 8th, 2021. We will also have some online sessions, so that other collaborators can join.
+The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/peniche/) in Peniche, Portugal, from December 3rd to 8th, 2021. We will also have some online sessions, so that other collaborators can join.
 
 ## Expected Participants 
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
