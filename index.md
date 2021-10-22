@@ -17,7 +17,7 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 - Emille Ishida (LPC-Clermont)
 - João Duarte (CENTRA-IST)
 - João Silvestre (CENTRA-IST)
-- Lluís Galbany (UGR)
+- Lluís Galbany (ICE-CSIC)
 - Pedro Garcia (CENTRA-FCUL)
 - Santiago González-Gaitán (CENTRA-IST)
 - Alejandro Yépes (U.Nacional Colombia)
