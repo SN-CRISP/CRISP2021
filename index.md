@@ -61,7 +61,7 @@ Galaxy polarization: João Silvestre
 
 Supernova polarization with CAFOS: Antonia Morales Garoffolo
 
-Supernova polarization: Bastian Ayala?
+Supernova polarization with EFOSC2: Bastian Ayala?
 
 Moon scattering polarization: Beatriz Pereira
 
