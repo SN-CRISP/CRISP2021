@@ -14,7 +14,6 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 - Ana M. Mourão (CENTRA-IST)
 - Antonia Morales Garoffolo (U.Cádiz)
 - Beatriz Pereira (CENTRA-IST)
-- Emille Ishida (LPC-Clermont)
 - João Duarte (CENTRA-IST)
 - João Silvestre (CENTRA-IST)
 - Lluís Galbany (ICE-CSIC)
@@ -22,15 +21,58 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 - Santiago González-Gaitán (CENTRA-IST)
 - Alejandro Yépes (U.Nacional Colombia)
 - Claudia Gutiérrez (U.Turku)
-- Francisco Förster (CMM-UChile)
 - João Aguas
 - Majda Smole (Obs. Belgrade)
-- Raya Dastidar (MAS-Chile)
+- Saby Goswami (CENTRA-IST)
 - Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
+- João Gonçalves
 
-## Tentative Program to be defined
+## Tentative Program 
 Talk durations are 10' or 15' and always +5' for questions. 
+
+#### Saturday 4: Projects and surveys
+
+CRISP: Santiago González and Ana Mourão
+
+HOSTFLOWS: Lluis Galbany
+
+#### Sunday 5: Methods
+
+1.5D fitting: Pedro Garcia
+
+EmulaRT part 1: João Silvestre
+
+EmulaRT part 2: Majda Smole
+
+#### Monday 6: Host galaxy studies
+
+Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
+
+Dust lines in host galaxy spectroscopy: Saby Goswami 
+
+Local and global photometry: João Aguas
+
+Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
+
+#### Tuesday 7: Polarization
+
+Galaxy polarization: João Silvestre
+
+Supernova polarization with CAFOS: Antonia Morales Garoffolo
+
+Supernova polarization: Bastian Ayala?
+
+Moon scattering polarization: Beatriz Pereira
+
+#### Wednesday 8: Supernova extinction
+
+Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
+
+Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
+
+Rv evolution in nearby SNe: Alejandro Yépes
+
 
 
 ## Contact
