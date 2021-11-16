@@ -31,13 +31,15 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 ## Tentative Program 
 Talk durations are 10' or 15' and always +5' for questions. 
 
-#### Saturday 4: Projects and surveys
+#### Saturday 4: Projects and methods
+
+##### Projects
 
 CRISP: Santiago González and Ana Mourão
 
 HOSTFLOWS: Lluis Galbany
 
-#### Sunday 5: Methods
+##### Methods
 
 1.5D fitting: Pedro Garcia
 
@@ -45,17 +47,21 @@ EmulaRT part 1: João Silvestre
 
 EmulaRT part 2: Majda Smole
 
-#### Monday 6: Host galaxy studies
+#### Monday 6: Host galaxy studies and Polarization
+
+##### Host galaxy studies
 
 Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
 Dust lines in host galaxy spectroscopy: Saby Goswami 
 
-Local and global photometry: João Aguas
+Local and global photometry: João Aguas?
 
 Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
 
-#### Tuesday 7: Polarization
+Artificial redshifting and host mass bias: Ana Afonso
+
+##### Polarization
 
 Galaxy polarization: João Silvestre
 
@@ -65,7 +71,7 @@ Supernova polarization with EFOSC2: Bastian Ayala?
 
 Moon scattering polarization: Beatriz Pereira
 
-#### Wednesday 8: Supernova extinction
+#### Tuesday 7: Supernova extinction
 
 Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
 
