@@ -11,7 +11,7 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 Presential participants in italic.
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
-- *Ana S. Afonso (CENTRA-IST)*
+- **Ana S. Afonso (CENTRA-IST)**
 - *Ana M. Mourão (CENTRA-IST)*
 - *Antonia Morales Garoffolo (U.Cádiz)*
 - *Beatriz Pereira (CENTRA-IST)*
