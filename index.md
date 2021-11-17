@@ -12,19 +12,19 @@ Presential participants in italic.
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
 - **Ana S. Afonso (CENTRA-IST)**
-- *Ana M. Mourão (CENTRA-IST)*
-- *Antonia Morales Garoffolo (U.Cádiz)*
-- *Beatriz Pereira (CENTRA-IST)*
-- *João Duarte (CENTRA-IST)*
-- *João Silvestre (CENTRA-IST)*
-- *Lluís Galbany (ICE-CSIC)*
-- *Pedro Garcia (CENTRA-FCUL)*
-- *Santiago González-Gaitán (CENTRA-IST)*
+- **Ana M. Mourão (CENTRA-IST)**
+- **Antonia Morales Garoffolo (U.Cádiz)**
+- **Beatriz Pereira (CENTRA-IST)**
+- **João Duarte (CENTRA-IST)**
+- **João Silvestre (CENTRA-IST)**
+- **Lluís Galbany (ICE-CSIC)**
+- **Pedro Garcia (CENTRA-FCUL)**
+- **Santiago González-Gaitán (CENTRA-IST)**
 - Alejandro Yépes (U.Nacional Colombia)
 - Claudia Gutiérrez (U.Turku)
 - João Aguas
-- *Majda Smole (Obs. Belgrade)*
-- *Saby Goswami (CENTRA-IST)*
+- **Majda Smole (Obs. Belgrade)**
+- **Saby Goswami (CENTRA-IST)**
 - Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
 - João Gonçalves (CENTRA-IST)
