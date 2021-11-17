@@ -7,7 +7,7 @@ Ciência e Tecnologia through CRISP grant [PTDC/FIS-AST-31546/2017]
 
 The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/peniche/) in Peniche, Portugal, from December 3rd to 8th, 2021. We will also have some online sessions, so that other collaborators can join. To get to the hotel via public transportation, you can take a bus from Lisbon (Sete Rios) to Peniche (around 9€ leaving every 1h30): [https://rede-expressos.pt/](https://rede-expressos.pt/)
 
-## Expected Participants 
+## Participants 
 - Alberto Krone-Martins (CENTRA-FCUL/U.Irvine)
 - Alessandro Razza (UGR)
 - Ana S. Afonso (CENTRA-IST)
@@ -26,9 +26,9 @@ The meeting will be held at the [Star Inn Hotel](https://www.hotelstarinn.com/pe
 - Saby Goswami (CENTRA-IST)
 - Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
-- João Gonçalves
+- João Gonçalves (CENTRA-IST)
 
-## Tentative Program 
+## Program 
 Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' for questions. 
 
 #### Saturday 4: Projects and methods
@@ -75,8 +75,6 @@ Moon scattering polarization: Beatriz Pereira
 
 ##### 17:00 Supernovae
 
-AlerCE transients: Francisco Förster??
-
 Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
 
 Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
@@ -85,7 +83,7 @@ Rv evolution in nearby SNe: Alejandro Yépes
 
 Transition of type II supernovae: Steve Jurado
 
-
+AlerCE transients: Francisco Förster
 
 ## Contact
 
