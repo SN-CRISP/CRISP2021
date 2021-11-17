@@ -28,6 +28,7 @@ Presential participants in bold.
 - Steve Jurado (U.Antioquia Colombia)
 - Bastian Ayala (UNAB-Chile)
 - João Gonçalves (CENTRA-IST)
+- Takashi Nagao (U. Turku)
 
 ## Program 
 Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' for questions. 
@@ -66,9 +67,11 @@ Artificial redshifting and host mass bias: Ana Afonso
 
 Galaxy polarization: João Silvestre
 
-Supernova polarization with CAFOS: Antonia Morales Garoffolo
+Supernova II spec polarization with VLT/NOT: Takashi Nagao
 
-Supernova polarization with EFOSC2: Bastian Ayala?
+Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
+
+Supernova II imaging polarization with EFOSC2: Bastian Ayala?
 
 Moon scattering polarization: Beatriz Pereira
 
