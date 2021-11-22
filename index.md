@@ -51,6 +51,8 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:40 - EmulaRT part 2: Majda Smole
 
+18:00 - Moon scattering polarization: Beatriz Pereira
+
 #### Monday 6: Host galaxy studies and Polarization
 
 ##### 9:00 Host galaxy studies
@@ -74,8 +76,6 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 17:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
 
 18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala?
-
-18:20 - Moon scattering polarization: Beatriz Pereira
 
 #### Tuesday 7: Supernovae & supernova extinction 
 
