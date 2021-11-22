@@ -53,11 +53,11 @@ EmulaRT part 2: Majda Smole
 
 ##### 9:00 Host galaxy studies
 
+Local and global photometry: João Aguas
+
 Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
 Dust lines in host galaxy spectroscopy: Saby Goswami 
-
-Local and global photometry: João Aguas?
 
 Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
 
