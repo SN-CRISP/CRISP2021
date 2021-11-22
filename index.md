@@ -37,57 +37,57 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 ##### 9:00 Projects
 
-CRISP: Santiago González and Ana Mourão
+9:00 - CRISP: Santiago González and Ana Mourão
 
-HOSTFLOWS: Lluis Galbany
+9:20 - HOSTFLOWS: Lluis Galbany
 
 ##### 17:00 Methods
 
-1.5D fitting: Pedro Garcia
+17:00 - 1.5D fitting: Pedro Garcia
 
-EmulaRT part 1: João Silvestre
+17:20 - EmulaRT part 1: João Silvestre
 
-EmulaRT part 2: Majda Smole
+17:40 - EmulaRT part 2: Majda Smole
 
 #### Monday 6: Host galaxy studies and Polarization
 
 ##### 9:00 Host galaxy studies
 
-Local and global photometry: João Aguas
+9:00 - Local and global photometry: João Aguas
 
-Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
+9:20 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
-Dust lines in host galaxy spectroscopy: Saby Goswami 
+9:40 - Dust lines in host galaxy spectroscopy: Saby Goswami 
 
-Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
+10:00 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
 
-Artificial redshifting and host mass bias: Ana Afonso
+10:20 - Artificial redshifting and host mass bias: Ana Afonso
 
 ##### 17:00 Polarization
 
-Galaxy polarization: João Silvestre
+17:00 - Galaxy polarization: João Silvestre
 
-Supernova II spec polarization with VLT/NOT: Takashi Nagao
+17:20 - Supernova II spec polarization with VLT/NOT: Takashi Nagao
 
-Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
+17:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
 
-Supernova II imaging polarization with EFOSC2: Bastian Ayala?
+18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala?
 
-Moon scattering polarization: Beatriz Pereira
+18:20 - Moon scattering polarization: Beatriz Pereira
 
 #### Tuesday 7: Supernovae & supernova extinction 
 
 ##### 17:00 Supernovae
 
-Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
+17:00 - Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
 
-Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
+17:20 - Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
 
-Rv evolution in nearby SNe: Alejandro Yépes
+17:40 - Rv evolution in nearby SNe: Alejandro Yépes
 
-Transition of type II supernovae: Steve Jurado
+18:00 - Transition of type II supernovae: Steve Jurado
 
-AlerCE transients: Francisco Förster
+18:20 - AlerCE transients: Francisco Förster
 
 ## Contact
 
