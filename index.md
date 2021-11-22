@@ -37,9 +37,11 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 ##### 9:00 Projects
 
-9:00 - CRISP: Santiago González and Ana Mourão
+9:00 - Introductions
 
-9:20 - HOSTFLOWS: Lluis Galbany
+9:20 - CRISP: Santiago González and Ana Mourão
+
+9:40 - HOSTFLOWS: Lluis Galbany
 
 ##### 17:00 Methods
 
