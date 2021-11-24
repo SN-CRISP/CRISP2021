@@ -53,7 +53,7 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 18:00 - Moon scattering polarization: Beatriz Pereira
 
-#### Monday 6: Host galaxy studies and Polarization
+#### Monday 6: Host galaxy studies and Supernovae
 
 ##### 9:00 Host galaxy studies
 
@@ -67,18 +67,6 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 10:20 - Artificial redshifting and host mass bias: Ana Afonso
 
-##### 17:00 Polarization
-
-17:00 - Galaxy polarization: João Silvestre
-
-17:20 - Supernova II spec polarization with VLT/NOT: Takashi Nagao
-
-17:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
-
-18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala?
-
-#### Tuesday 7: Supernovae & supernova extinction 
-
 ##### 17:00 Supernovae
 
 17:00 - Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
@@ -90,6 +78,19 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 18:00 - Transition of type II supernovae: Steve Jurado
 
 18:20 - AlerCE transients: Francisco Förster
+
+#### Tuesday 7: Polarization
+
+##### 17:00 Polarization
+
+17:00 - Galaxy polarization: João Silvestre
+
+17:20 - Supernova II spec polarization with VLT/NOT: Takashi Nagao
+
+17:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
+
+18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala
+
 
 ## Contact
 
