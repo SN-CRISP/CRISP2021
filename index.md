@@ -67,17 +67,17 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 10:20 - Artificial redshifting and host mass bias: Ana Afonso
 
-##### 17:00 Supernovae
+##### 16:00 Supernovae
 
-17:00 - Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
+16:00 - Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
 
-17:20 - Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
+16:20 - Dust parameters for SN light-curves from the Dark Energy Survey: João Gonçalves
 
-17:40 - Rv evolution in nearby SNe: Alejandro Yépes
+16:40 - Rv evolution in nearby SNe: Alejandro Yépes
 
-18:00 - Transition of type II supernovae: Steve Jurado
+17:00 - Transition of type II supernovae: Steve Jurado
 
-18:20 - AlerCE transients: Francisco Förster
+17:20 - AlerCE transients: Francisco Förster
 
 #### Tuesday 7: Polarization
 
