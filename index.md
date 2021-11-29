@@ -29,6 +29,7 @@ Presential participants in bold.
 - Bastian Ayala (UNAB-Chile)
 - João Gonçalves (CENTRA-IST)
 - Takashi Nagao (U. Turku)
+- Cole Meldorf (U. Chicago, Fermilab)
 
 ## Program 
 Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' for questions. 
@@ -43,7 +44,7 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 9:40 - HOSTFLOWS: Lluis Galbany
 
-##### 17:00 Methods
+##### 17:00 Methods - Chair: S. Gonzalez
 
 17:00 - 1.5D fitting: Pedro Garcia
 
@@ -55,19 +56,21 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 #### Monday 6: Host galaxy studies and Supernovae
 
-##### 9:00 Host galaxy studies
+##### 9:00 Host galaxy studies - Chair: L. Galbany
 
-9:00 - Local and global photometry: João Aguas
+9:00 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
 
 9:20 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
-9:40 - Dust lines in host galaxy spectroscopy: Saby Goswami 
+9:40 - Artificial redshifting and host mass bias: Ana Afonso
 
-10:00 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
+10:00 - Dust lines in host galaxy spectroscopy: Saby Goswami 
 
-10:20 - Artificial redshifting and host mass bias: Ana Afonso
+10:20 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
 
-##### 16:00 Supernovae
+10:40 - Local and global photometry: João Aguas
+
+##### 16:00 Supernovae - Chair: A. Morales Garoffolo
 
 16:00 - Narrow spectral lines of dust material in SN spectra: Claudia Gutierrez
 
@@ -79,7 +82,7 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:20 - AlerCE transients: Francisco Förster
 
-#### Tuesday 7: Polarization
+#### Tuesday 7: Polarization - Chair: A. Afonso
 
 ##### 17:00 Polarization
 
