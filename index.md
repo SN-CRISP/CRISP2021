@@ -82,9 +82,9 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:20 - AlerCE transients: Francisco Förster
 
-#### Tuesday 7: Polarization - Chair: A. Afonso
+#### Tuesday 7: Polarization 
 
-##### 17:00 Polarization
+##### 17:00 Polarization - Chair: A. Afonso
 
 17:00 - Galaxy polarization: João Silvestre
 
