@@ -34,6 +34,8 @@ Presential participants in bold.
 ## Program 
 Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' for questions. 
 
+#### Friday 3: Free discussions
+
 #### Saturday 4: Projects and methods
 
 ##### 9:00 Projects
@@ -56,19 +58,15 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 #### Monday 6: Host galaxy studies and Supernovae
 
-##### 8:00 Host galaxy studies - Chair: L. Galbany
+##### 9:00 Host galaxy studies part 1 - Chair: L. Galbany
 
-8:00 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
+9:00 - Artificial redshifting and host mass bias: Ana Afonso
 
-8:20 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
+9:20 - Dust lines in host galaxy spectroscopy: Saby Goswami 
 
-8:40 - Artificial redshifting and host mass bias: Ana Afonso
+9:40 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
 
-9:00 - Dust lines in host galaxy spectroscopy: Saby Goswami 
-
-9:20 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
-
-9:40 - Local and global photometry: João Aguas
+10:00 - Local and global photometry: João Aguas
 
 ##### 16:00 Supernovae - Chair: A. Morales Garoffolo
 
@@ -82,6 +80,12 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:20 - AlerCE transients: Francisco Förster
 
+##### 9:00 Host galaxy studies part 2 - Chair: L. Galbany
+
+18:30 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
+
+18:50 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
+
 #### Tuesday 7: Polarization 
 
 ##### 17:00 Polarization - Chair: A. Afonso
@@ -94,6 +98,7 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala
 
+#### Wednesday 8: Free discussions
 
 ## Contact
 
