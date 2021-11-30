@@ -80,11 +80,11 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:20 - AlerCE transients: Francisco Förster
 
-##### 18:30 Host galaxy studies part 2 - Chair: L. Galbany
+##### 18:20 Host galaxy studies part 2 - Chair: L. Galbany
 
-18:30 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
+18:20 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
 
-18:50 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
+18:40 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
 #### Tuesday 7: Polarization 
 
