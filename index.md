@@ -26,7 +26,6 @@ Presential participants in bold.
 - **Majda Smole (Obs. Belgrade)**
 - **Saby Goswami (CENTRA-IST)**
 - Steve Jurado (U.Antioquia Colombia)
-- Bastian Ayala (UNAB-Chile)
 - João Gonçalves (CENTRA-IST)
 - Takashi Nagao (U. Turku)
 - Cole Meldorf (U. Chicago, Fermilab)
@@ -56,17 +55,15 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 18:00 - Moon scattering polarization: Beatriz Pereira
 
-#### Monday 6: Host galaxy studies and Supernovae
+#### Monday 6: Polarization and supernovae
 
-##### 9:00 Host galaxy studies part 1 - Chair: L. Galbany
+##### 9:00 Polarization - Chair: A. Afonso
 
-9:00 - Artificial redshifting and host mass bias: Ana Afonso
+9:00 - Galaxy polarization: João Silvestre
 
-9:20 - Dust lines in host galaxy spectroscopy: Saby Goswami 
+9:20 - Supernova II spec polarization with VLT/NOT: Takashi Nagao
 
-9:40 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
-
-10:00 - Local and global photometry: João Aguas
+9:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
 
 ##### 16:00 Supernovae - Chair: A. Morales Garoffolo
 
@@ -80,23 +77,22 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 17:20 - AlerCE transients: Francisco Förster
 
-##### 18:20 Host galaxy studies part 2 - Chair: L. Galbany
+#### Tuesday 7: Host galaxies 
+
+##### 17:00 Host galaxy studies - Chair: L. Galbany
+
+17:00 - Local and global photometry: João Aguas
+
+17:20 - Dust lines in host galaxy spectroscopy: Saby Goswami 
+
+17:40 - Dust attenuations in simulated and MUSE galaxies: Alessandro Razza
+
+18:00 - Artificial redshifting and host mass bias: Ana Afonso
 
 18:20 - Type Ia color luminosity relation driven by host galaxy dust: Cole Meldorf
 
 18:40 - Dust attenuations laws of Dark Energy Survey host galaxies: João Duarte
 
-#### Tuesday 7: Polarization 
-
-##### 17:00 Polarization - Chair: A. Afonso
-
-17:00 - Galaxy polarization: João Silvestre
-
-17:20 - Supernova II spec polarization with VLT/NOT: Takashi Nagao
-
-17:40 - Supernova II imaging polarization with CAFOS: Antonia Morales Garoffolo
-
-18:00 - Supernova II imaging polarization with EFOSC2: Bastian Ayala
 
 #### Wednesday 8: Free discussions
 
