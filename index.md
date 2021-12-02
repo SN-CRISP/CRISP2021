@@ -55,6 +55,8 @@ Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' f
 
 18:00 - Moon scattering polarization: Beatriz Pereira
 
+#### Sunday 5: Workshops and discussions
+
 #### Monday 6: Polarization and supernovae
 
 ##### 9:00 Polarization - Chair: A. Afonso
