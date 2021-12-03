@@ -32,6 +32,7 @@ Presential participants in bold.
 
 ## Program 
 Times are in Portugal time (UTC). Talk durations are 10' or 15' and always +5' for questions. 
+Coffee breaks at 10:00 and 16:30 every day.
 
 #### Friday 3: Free discussions
 
