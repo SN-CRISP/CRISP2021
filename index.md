@@ -80,6 +80,8 @@ Coffee breaks at 10:00 and 16:30 every day.
 
 17:20 - AlerCE transients: Francisco Förster
 
+_17:45 - CRISP Scientific Committee meeting_
+
 #### Tuesday 7: Host galaxies 
 
 ##### 17:00 Host galaxy studies - Chair: L. Galbany
